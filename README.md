@@ -1,1 +1,6 @@
 # Predict-next-possible-word-n-gram-approach
+
+## Introduction
+
+Automatic question generation is part of Natural Language Processing (NLP). It is an area of research where many researchers have presented their work and is still an area under research to achieve higher accuracy. Many researchers have worked in the area of automatic question generation through NLP, and numerous techniques and models have been developed to generate the different types of question automatically. Work has been done in many languages.
+Nowadays, teachers/professors/tutors (academicians) spend a lot of time generating test papers and quizzes manually. Similarly, students spend a lot of time on self-analysis (self-calibration). Moreover, students are dependent on their mentors for the self-analysis. Hence, we are working on this NLP area, which has a huge scope of development at this moment. We want to build a computer application system that can help you in calibrating yourself and remove any dependencies on mentors. Here, students can give the input text of whatever material they referred to, and on this basis they get a set of questions with answers from which they can do a self-analysis (self-calibration).
